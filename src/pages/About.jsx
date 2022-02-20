@@ -3,15 +3,14 @@ function About() {
     <>
       <h1 className='text-6xl mb-4'>Github Finder</h1>
       <p className='mb-4 text-2xl font-light'>
-        A React app to search GitHub profiles and see profile details. This
-        project is part of the
+        Thid is my first react project
         <a href='https://www.udemy.com/course/modern-react-front-to-back/'>
           {' '}
-          React Front To Back
+          i really loved this
         </a>{' '}
-        Udemy course by
+        git hub finder by
         <strong>
-          <a href='https://traversymedia.com'> Emtiaz ahmed siam</a>
+          <a href='https://m.facebook.com/emtiazahmed15'> Emtiaz ahmed siam</a>
         </strong>
         .
       </p>
