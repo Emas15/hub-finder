@@ -3,10 +3,10 @@ function About() {
     <>
       <h1 className='text-6xl mb-4'>Github Finder</h1>
       <p className='mb-4 text-2xl font-light'>
-        Thid is my first react project
+        This is my first react project.
         <a href='https://www.udemy.com/course/modern-react-front-to-back/'>
           {' '}
-          i really loved this
+          i really loved  making this!!!
         </a>{' '}
         git hub finder by
         <strong>
